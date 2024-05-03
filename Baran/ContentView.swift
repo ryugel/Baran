@@ -5,7 +5,6 @@
 //  Created by ryugel on 03/05/2024.
 //  Copyright © 2024 DeRosa. All rights reserved.
 //
-       
 
 import SwiftUI
 
