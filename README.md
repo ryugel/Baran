@@ -2,6 +2,14 @@
 
 Baran is a mobile application that allows you to browse and discover movies and TV shows using the TMDb (The Movie Database) API and watch trailers on YouTube. This application is designed as a clone of Netflix, offering a similar browsing experience while utilizing modern technologies for design and data storage.
 
+## ScreenRecord
+https://github.com/ryugel/Baran/assets/69274926/f13aec44-85fb-4672-9a6f-835092508abc
+
+## Screenshots
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 | Screenshot 5 | Screenshot 6 |
+|--------------|--------------|--------------|--------------|--------------|--------------|
+| ![Screenshot 1](https://github.com/ryugel/Baran/assets/69274926/82049d20-83ee-4b14-b06b-e861db807a79) | ![Screenshot 2](https://github.com/ryugel/Baran/assets/69274926/95532316-c8ed-4175-9d29-953b697ecf0e) | ![Screenshot 3](https://github.com/ryugel/Baran/assets/69274926/be57bb24-5a3a-4c61-b741-351affb69fda) | ![Screenshot 4](https://github.com/ryugel/Baran/assets/69274926/c1778105-b15c-4e2b-980b-30ca2cd8f4f5) | ![Screenshot 5](https://github.com/ryugel/Baran/assets/69274926/1c9681d1-0ec8-4092-8084-0ffca17520e0) | ![Screenshot 6](https://github.com/ryugel/Baran/assets/69274926/e291faad-ca61-4af0-aec6-b07263bdcfe8) |
+
 ## Features
 
 - Browse popular movies and TV shows, current trends, and new releases.
@@ -37,16 +45,6 @@ Baran is a mobile application that allows you to browse and discover movies and 
 ## Firebase Configuration
 
 Make sure you have set up Firebase in your Xcode project. You will need to add the configuration files provided by Firebase to your project.
-
-## ScreenRecord
-https://github.com/ryugel/Baran/assets/69274926/f13aec44-85fb-4672-9a6f-835092508abc
-
-
-## Screenshots
-| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 | Screenshot 5 | Screenshot 6 |
-|--------------|--------------|--------------|--------------|--------------|--------------|
-| ![Screenshot 1](https://github.com/ryugel/Baran/assets/69274926/82049d20-83ee-4b14-b06b-e861db807a79) | ![Screenshot 2](https://github.com/ryugel/Baran/assets/69274926/95532316-c8ed-4175-9d29-953b697ecf0e) | ![Screenshot 3](https://github.com/ryugel/Baran/assets/69274926/be57bb24-5a3a-4c61-b741-351affb69fda) | ![Screenshot 4](https://github.com/ryugel/Baran/assets/69274926/c1778105-b15c-4e2b-980b-30ca2cd8f4f5) | ![Screenshot 5](https://github.com/ryugel/Baran/assets/69274926/1c9681d1-0ec8-4092-8084-0ffca17520e0) | ![Screenshot 6](https://github.com/ryugel/Baran/assets/69274926/e291faad-ca61-4af0-aec6-b07263bdcfe8) |
-
 
 
 ## Contributions
