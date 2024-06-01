@@ -55,8 +55,4 @@ Contributions are welcome! If you'd like to contribute to this project, please o
 
 This project was developed by ryugel.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 
